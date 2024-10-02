@@ -8,9 +8,9 @@ My extended family does a [Pollyanna gift exchange](https://en.wikipedia.org/wik
 2. Find the emailSender and emailPassword variables
 3. The emailSender variable will be a string containing the email address you wish to send from
 4. the emailPassword variable will be a string containing an App Password
-5. Generate an App Password for the email address used in the emailSender variable
-     a) For gmail, this can be found under Google Account and searching for App Password
-     b) I am unfamiliar with other email providers, however it is very easy to create a Google Account for this purpose
+5. Generate an App Password for the email address used in the emailSender variable <br>
+&nbsp; a) For gmail, this can be found under Google Account and searching for App Password <br>
+&nbsp; b) I am unfamiliar with other email providers, however it is very easy to create a Google Account for this purpose <br>
 6. The App Password will contain 4 strings of 4 characters, ex: "aaaa bbbb cccc dddd"
 7. Populate the famName and famEmail lists with your families' respective information
 8. Execute the python program.
