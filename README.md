@@ -1,4 +1,4 @@
-# PollyannaGenerator
+# Pollyanna Generator
 
 ## Introduction
 My extended family does a [Pollyanna gift exchange](https://en.wikipedia.org/wiki/Pollyanna#:~:text=The%20word%20%22pollyanna%22%20may%20also,surrounding%20areas.) during the holliday season but with a twist. Because we have a larger extended family with 5 different immediate families, we have a rule that you cannot get a Pollyanna who is also from your own immediate family. The purpose of this program is to automatically generate Pollyannas for the entire extended family without breaking any of the rules of the gift exchange.
